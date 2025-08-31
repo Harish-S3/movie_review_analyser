@@ -1,0 +1,8 @@
+pandas
+numpy
+beautifulsoup4
+textblob
+scikit-learn
+scipy
+nltk
+joblib
